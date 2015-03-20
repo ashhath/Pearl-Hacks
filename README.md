@@ -1,4 +1,4 @@
-##F # and IBM Watson Developer Cloud
+##Pearl Hacks and IBM Watson Developer Cloud
 <img style="float: left" src="http://i.imgur.com/VLIpcPB.jpg">
 <img style="float: center" src="http://www.ibm.com/solutions/images/C175270E70628U26/watson_300x300.jpg">
 
